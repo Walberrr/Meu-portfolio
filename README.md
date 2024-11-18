@@ -14,7 +14,7 @@ Este projeto é meu portfólio pessoal, criado para demonstrar minhas habilidade
 - **Jogo Senha**: Uma implementação do jogo de lógica "Bulls and Cows" (Jogo Senha), criado em JavaScript, para mostrar minhas habilidades na programação.
 
 ---
-
+ 
 ## 🛠️ Tecnologias Usadas
 
 - **React**: Biblioteca JavaScript para criar interfaces de usuário.
