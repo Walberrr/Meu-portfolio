@@ -34,10 +34,6 @@ Este projeto é meu portfólio pessoal, criado para demonstrar minhas habilidade
 
 ---
 
-## 📸 Captura de Tela
 
-Aqui está um visual do meu portfólio:
-
-![Captura de tela](https://via.placeholder.com/800x400.png?text=Meu+Portf%C3%B3lio)
 
 
